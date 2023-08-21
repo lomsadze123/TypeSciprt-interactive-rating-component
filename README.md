@@ -25,3 +25,17 @@ If you are developing a production application, we recommend updating the config
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+# interactive-rating-component with TypeSciprt
+
+This project has gone through multiple iterations of development. It began as a vanilla JavaScript application, evolved into a React.js project, and has now been rebuilt using React.js with TypeScript
+
+## Built With
+- HTML5 (JSX)
+- Styled Components
+- Mobile First Approach
+- Media Queries
+- React
+- TypeScript
+- useState Hook
